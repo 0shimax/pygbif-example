@@ -1,0 +1,15 @@
+matplotlib==3.7.1
+notebook==6.5.4
+numpy==1.22.3
+plotly==5.14.1
+pygbif==0.6.3
+scikit-image==0.21.0
+
+kedro[all]~=0.18.8
+black
+flake8
+pytest
+pytest-cov
+python-json-logger
+tqdm
+isort
